@@ -1,0 +1,11 @@
+# Ignore build files
+*.o
+*.l
+*.so
+tabbed
+xembed
+config.h
+
+# Ignore patch files
+*.rej
+*.orig
